@@ -1,3 +1,5 @@
+Created by Timotej Fašiang 1/1/2023
+
 This is a world generating program using the C++ SFML library for graphical purposes.
 
 The program creates a virtual 2D game board and then cycles from left to right, top to bottom through it.
