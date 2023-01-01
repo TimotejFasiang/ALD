@@ -11,8 +11,8 @@ using namespace std;
 
 void boardSet(int i, int j, GamePiece piece, sf::Sprite sPiece, sf::RenderWindow * window, GamePiece board[21][21]) {
     board[i][j] = piece;
-    int xL = i * 38;
-    int yL = j * 38;
+    float xL = i * 38;
+    float yL = j * 38;
     sPiece.setPosition(sf::Vector2f(xL, yL));
     window->draw(sPiece);
 }
