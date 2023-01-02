@@ -1,0 +1,3 @@
+C:/Users/katka/CLionProjects/ALDFinal/cmake-build-debug/CMakeFiles/ALDFinal.dir
+C:/Users/katka/CLionProjects/ALDFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/katka/CLionProjects/ALDFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
